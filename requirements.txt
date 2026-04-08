@@ -1,0 +1,4 @@
+perceval-quandela
+qiskit
+numpy
+matplotlib
