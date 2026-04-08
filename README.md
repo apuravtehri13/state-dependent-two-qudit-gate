@@ -12,4 +12,4 @@ Selective Mode Routing (SMR): Simulates the physical optical routing that flags 
 Bell State Measurement (BSM): Implements the projective measurement and local unitary feedforward corrections required to finalize the gate (feedforward corrections are omitted for the current code).
 
 ## Repository Contents
-`(2026-03-16) Multi-level entangling scheme.ipynb`: The main Jupyter Notebook containing the theoretical simulation and circuit implementation of the state-dependent multi-level CZ gate.
+`Multi-level_entangling_scheme.ipynb`: The main Jupyter Notebook containing the theoretical simulation and circuit implementation of the state-dependent multi-level CZ gate.
