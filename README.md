@@ -38,8 +38,7 @@ for arbitrarily chosen trigger mode sets $\mathcal{C}_1$ and $\mathcal{C}_2$, us
 | `LICENSE` | MIT licence |
 
 > **Note:** If GitHub fails to render the notebook (common for large output cells), use the nbviewer link:
-> [https://nbviewer.org/github/apuravtehri13/State-Dependent-Two-Qudit-Gate/blob/main/State_dependent_MCZ_simulation.ipynb]
-(https://nbviewer.org/github/apuravtehri13/State-Dependent-Two-Qudit-Gate/blob/main/State_dependent_MCZ_simulation.ipynb)
+> (https://nbviewer.org/github/apuravtehri13/State-Dependent-Two-Qudit-Gate/blob/main/State_dependent_MCZ_simulation.ipynb)
 ---
 
 ## Installation
