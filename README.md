@@ -1,6 +1,9 @@
 This repository contains the official implementation of the state-dependent multi-level entangling gate scheme proposed in the paper: "Efficient circuit compression by multi-qudit entangling gates in linear optical quantum computation."
 Read on ArXiv: https://arxiv.org/abs/2602.08394
 
+In case github fails to render the Jupyter notebook, use the following link.
+https://nbviewer.org/github/apuravtehri13/State-Dependent-Two-Qudit-Gate/blob/main/State_dependent_MCZ_simulation_.ipynb
+
 ## Overview
 In Linear Optical Quantum Computation (LOQC), standard qudit circuit compression schemes encounter a "selectivity bottleneck" when only a subset of encoded qubits is required to participate in a multi-controlled operation, leading to an exponential overhead in the required number of non-local entangling gates. 
 
